@@ -23,3 +23,5 @@
 </div>
 
 <hr>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=fermanfrini&theme=dracula&hide_border=true&border_radius=7&locale=pt_BR)](https://git.io/streak-stats)
