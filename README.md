@@ -1,7 +1,7 @@
 
 <h4>Olá, sou a Fernanda Manfrini👋🏻 </h2
 <p>👩🏻‍⚕️Médica veterinária no mundo da programação</p>
-<p>👩🏻‍💻Programadora Front-end, cursando o módulo de back-end na Kenzie Academy Brasil</p>
+<p>👩🏻‍💻Programadora Front-end</p>
 
 
  Contato
